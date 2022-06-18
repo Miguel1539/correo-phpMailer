@@ -60,7 +60,7 @@ class Mail {
                 ]
             )
         );
-        $this->mail->setFrom($this->email, 'Adminitrador');
+        $this->mail->setFrom($this->email, 'VirtualENV');
     }
 
     // create private function datosEmail()
